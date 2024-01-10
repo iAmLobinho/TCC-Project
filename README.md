@@ -1,2 +1,4 @@
-# TCC-Project
-Projeto TCC Final
+# Projeto TCC Final
+> [!NOTE]
+> Sendo desenvolvido por Yuri lobo
+
